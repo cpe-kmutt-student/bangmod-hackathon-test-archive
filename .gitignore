@@ -1,0 +1,27 @@
+# Test Cases
+*.in
+*.out
+
+# Forbidden Test Questions
+*.docx
+*.doc
+
+# Code Files
+*.c
+*.cpp
+*.java
+*.py
+*.sh
+
+# Other Illegals
+*.o
+*.exe
+*.class
+*.jar
+*.zip
+*.rar
+*.7z
+*.gz
+
+# Misc
+*.DS_Store
